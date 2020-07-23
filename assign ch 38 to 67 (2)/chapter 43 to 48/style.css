@@ -1,0 +1,27 @@
+img {
+    height: 300px;
+    border: 2px solid black !important;
+}
+
+div {
+    column-gap: 40px !important;
+}
+
+h1 {
+    color: black;
+}
+
+table {
+    width: 50%
+}
+
+#img {
+    width: 500px;
+    height: 500px
+}
+
+#counter {
+    width: 100%;
+    text-align: center;
+    color: black
+}
